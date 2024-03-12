@@ -1,0 +1,10 @@
+C:\Users\BAŞAKŞEHİR\Desktop\Quiz\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojResolveAssemblyReference.cache
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Form1.resources
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.Cache
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\BAŞAKŞEHİR\Desktop\2023-2024 Ders Çalışmaları\NTP\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
