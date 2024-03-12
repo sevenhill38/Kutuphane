@@ -20,7 +20,7 @@ namespace Sahibinden
         public void Goruntule() 
         {
             baglan.Open();
-            OleDbDataAdapter adtr = new OleDbDataAdapter("Select * From AracBilgi", baglan);
+            OleDbDataAdapter adtr = new OleDbDataAdapter("SELECT * FROM AracBilgi", baglan);
             DataTable dt = new DataTable();
             adtr.Fill(dt);
             dataGridView1.DataSource = dt;
